@@ -9,7 +9,7 @@
 
 
 
-[![Brunoskape's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoskap)](https://github.com/brunoskape/github-readme-stats)
+[![Brunoskape's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoskape)](https://github.com/brunoskape/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoskape)](https://github.com/brunoskape/github-readme-stats)
